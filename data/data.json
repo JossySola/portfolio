@@ -1,0 +1,25 @@
+{
+    "test": {
+        "en": {
+            "name": "Test",
+            "text": "Some text to display",
+            "image": {
+                "name": "gandhi",
+                "url": "URL"
+            },
+            "heading": "Next Section",
+            "list": [{
+                "logo": {
+                    "name": "gandhi",
+                    "url": "URL"
+                },
+                "title": "A Fancy Title",
+                "icons": ["icon1", "icon2", "icon3"],
+                "link": "some URL"
+            }]
+        },
+        "es": {
+
+        }
+    }
+}
