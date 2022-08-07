@@ -1,13 +1,41 @@
 {
-    "webdev": {
-        "experience": {
-            "text": {
-                "en": "english",
-                "es": "spanish"
-            }
+    "profile": {
+        "value": "profile",
+        "name": {
+            "en": "José María Solá",
+            "es": "José María Solá"
         },
-        "projects": {
-
+        "text": {
+            "en": "",
+            "es": ""
         }
-    }
+    },
+
+
+
+    "webdev": {
+        "value": "webdev",
+        "name": {
+            "en": "Web Development",
+            "es": "Desarrollo Web"
+        },
+        "subcategories": [
+            {
+                "name": {
+                    "en": "Experience",
+                    "es": "Experiencia"
+                },
+                "icon": "folder"
+            },
+            {
+                "name": {
+                    "en": "Projects",
+                    "es": "Proyectos"
+                },
+                "icon": "folder",
+                "list": [
+
+                ]
+            }
+    ]}
 }
