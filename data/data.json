@@ -30,20 +30,12 @@
         },
         "subcategories": [
             {
-                "value": "experience",
-                "name": {
-                    "en": "Experience",
-                    "es": "Experiencia"
-                },
-                "icon": "folder"
-            },
-            {
                 "value": "projects",
                 "name": {
                     "en": "Projects",
                     "es": "Proyectos"
                 },
-                "icon": "folder",
+                "icon": "presentation",
                 "list": [
 
                 ]
