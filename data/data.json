@@ -1,44 +1,47 @@
 {
-    "profile": {
-        "value": "profile",
-        "name": {
-            "en": "José María Solá",
-            "es": "José María Solá"
+    "profile": [
+        {   
+            "value": "profile",
+            "h2": {
+                "en": "José María Solá",
+                "es": "José María Solá"
+            }
         },
-        "text": {
+        {
+            "type": "text",
             "en": "Throughout my life I have found creating appealing, from drawing and crafting to digitally express an idea. A key part of my development has been thanks to other people knowledge, the awesome ability to learn from others through books, articles, tutorials, classes and many other ways humans connect and share their minds.",
             "es": "A lo largo de mi vida siempre he tenido el interés de crear, desde dibujos y arte hasta digitalizar una idea. Un punto clave de mi desarrollo ha sido gracias al conocimiento de otras personas, a la asombrosa habilidad de aprender de otros a través de los libros, artículos, tutoriales, clases y muchas otras formas en las que el humano puede conectarse y compartir sus ideas."
         },
-        "section": {
-            "name": {
+        {
+            "type": "section",
+            "h3": {
                 "en": "Licenses & Certifications",
                 "es": "Licencias y Certificaciones"
             },
-            "list": [
-                {}
-            ]
-        }
-    },
-
-
-
-    "webdev": {
-        "value": "webdev",
-        "name": {
-            "en": "Web Development",
-            "es": "Desarrollo Web"
-        },
-        "subcategories": [
-            {
-                "value": "projects",
-                "name": {
-                    "en": "Projects",
-                    "es": "Proyectos"
-                },
-                "icon": "presentation",
-                "list": [
-
-                ]
+            "simplelist": {
+                "iconsArr": ["codecademy.jpg", "udemy.jpg", "cambridge.jpg"],
+                "datesArr": ["JUN 2022", "JAN 2022", "FEB 2019"],
+                "textArr": ["JavaScript Intermediate / Codecademy", "Microsoft Excel / Udemy", "FCE Level B2 / Cambridge"]
             }
-    ]}
+        },
+        {
+            "type": "section",
+            "h3": {
+                "en": "Hard Skills",
+                "es" : "Habilidades Técnicas"
+            },
+            "icons": []
+        },
+        {
+            "type": "section",
+            "h3": {
+                "en": "Soft Skills",
+                "es": "Habilidades Humanas"
+            },
+            "list": {
+                "en": ["Critical Thinking", "Methodic", "Attention to Detail", "Creative", "Diligent", "Problem Solving"],
+                "es": ["Pensamiento Crítico", "Metódico", "Atento al detalle", "Creativo", "Diligente", "Resolución de problemas"]
+            }
+        }
+    ]
 }
