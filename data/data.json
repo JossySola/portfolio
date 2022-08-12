@@ -31,7 +31,7 @@
         },
         {
             "type": "icons",
-            "array": ["vscode.svg", "html.svg", "css.svg", "javascript.svg", "git.svg", "github.svg", "mocha-logo.svg", "node.svg", "react.svg", "redux.svg"]
+            "icons": ["vscode.svg", "html.svg", "css.svg", "javascript.svg", "git.svg", "github.svg", "mocha-logo.svg", "node.svg", "react.svg", "redux.svg"]
         },
         {
             "type": "h3",
