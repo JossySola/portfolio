@@ -31,7 +31,7 @@
         },
         {
             "type": "icons",
-            "icons": ["vscode.svg", "html.svg", "css.svg", "javascript.svg", "git.svg", "github.svg", "mocha-logo.svg", "node.svg", "react.svg", "redux.svg"]
+            "icons": ["Microsoft Visual Studio Code.svg", "HTML.svg", "CSS.svg", "javaScript.svg", "git.svg", "github.svg", "mocha-logo.svg", "node.svg", "react.svg", "redux.svg"]
         },
         {
             "type": "h3",
