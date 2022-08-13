@@ -9,8 +9,13 @@
         },
         {
             "type": "text",
-            "en": "Throughout my life I have found creating appealing, from drawing and crafting to digitally express an idea.<br>A key part of my development has been thanks to other people knowledge, the awesome ability to learn from others through books, articles, tutorials, classes and many other ways humans connect and share their minds.",
-            "es": "A lo largo de mi vida siempre he tenido el interés de crear, desde dibujos y arte hasta digitalizar una idea.<br>Un punto clave de mi desarrollo ha sido gracias al conocimiento de otras personas, a la asombrosa habilidad de aprender de otros a través de los libros, artículos, tutoriales, clases y muchas otras formas en las que el humano puede conectarse y compartir sus ideas."
+            "en": "Throughout my life I have found creating appealing, from drawing and crafting to digitally express an idea.",
+            "es": "A lo largo de mi vida siempre he tenido el interés de crear, desde dibujos y arte hasta digitalizar una idea."
+        },
+        {
+            "type": "text",
+            "en": "A key part of my development has been thanks to other people knowledge, the awesome ability to learn from others through books, articles, tutorials, classes and many other ways humans connect and share their minds.",
+            "es": "Un punto clave de mi desarrollo ha sido gracias al conocimiento de otras personas, a la asombrosa habilidad de aprender de otros a través de los libros, artículos, tutoriales, clases y muchas otras formas en las que el humano puede conectarse y compartir sus ideas."
         },
         {
             "type": "h3",
