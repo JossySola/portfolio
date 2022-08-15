@@ -49,5 +49,32 @@
             "es": ["Pensamiento Crítico", "Metódico", "Atento al detalle", "Creativo", "Diligente", "Resolución de problemas"]
         }
         
+    ],
+
+    "webdev": [
+        {
+            "value": "webdev",
+            "title": {
+                "en": "Web Development",
+                "es": "Desarrollo Web"
+            }
+        },
+        {
+            "type": "subcategory",
+            "subcategory": {
+                "projects": [
+                    {
+                        "type": "h3",
+                        "en": "Projects",
+                        "es": "Proyectos"
+                    },
+                    {
+                        "type": "dynamicList",
+                        "header": {},
+                        "content": {}
+                    }
+                ]
+            }
+        }
     ]
 }
