@@ -64,12 +64,8 @@
             "subcategory": {
                 "projects": [
                     {
-                        "type": "h3",
-                        "en": "Projects",
-                        "es": "Proyectos"
-                    },
-                    {
                         "type": "dynamicList",
+                        "file": "presentation",
                         "header": {},
                         "content": {}
                     }
