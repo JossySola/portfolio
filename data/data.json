@@ -61,11 +61,11 @@
         },
         {
             "type": "subcategory",
+            "title": {
+                "en": "Projects",
+                "es": "Proyectos"
+            },
             "subcategory": {
-                "title": {
-                    "en": "Projects",
-                    "es": "Proyectos"
-                },
                 "projects": [
                     {
                         "type": "dynamicList",
