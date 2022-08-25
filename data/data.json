@@ -65,66 +65,65 @@
                 "en": "Projects",
                 "es": "Proyectos"
             },
-            "subcategory": {
-                "projects": [
-                    {
-                        "type": "dynamicList",
-                        "file": "presentation",
-                        "header": [
-                            {
-                                "type": "image",
-                                "url": "",
-                                "name": ""
-                            },
-                            {
-                                "type": "h3",
-                                "en": "Flash Card Quizz",
-                                "es": "Flash Card Quizz"
+            "projects": [
+                {
+                    "type": "dynamicList",
+                    "file": "presentation",
+                    "header": [
+                        {
+                            "type": "image",
+                            "url": "",
+                            "name": ""
+                        },
+                        {
+                            "type": "h3",
+                            "en": "Flash Card Quizz",
+                            "es": "Flash Card Quizz"
+                        }
+                    ],
+                    "content": [
+                        {
+                            "type": "icons",
+                            "icons": ["react.svg", "redux.svg", "vite.svg"]
+                        },
+                        {
+                            "type": "h4",
+                            "en": "My Personal Challenge:",
+                            "es": "Mi Reto Personal:"
+                        },
+                        {
+                            "type": "text",
+                            "en": "Even though I have been taught the Development Process of a project, when starting this project from scratch I doubted where to begin.",
+                            "es": "Aunque he estudiado el Proceso de Desarrollo de proyectos, al empezar este proyecto desde cero dudé por dónde empezar."
+                        },
+                        {
+                            "type": "h4",
+                            "en": "How did I approach the challenge:",
+                            "es": "Cómo abordé el reto:"
+                        },
+                        {
+                            "type": "text",
+                            "en": "In general I started from the big picture down to the specific parts or components of what the app would be made of.",
+                            "es": "En general empecé por visualizar el proyecto desde una gran escala hasta las partes y componentes específicos que harían funcionar la aplicación."
+                        },
+                        {
+                            "type": "orderedList",
+                                "en": ["Select which technologies to use", "What features is the app made of?", "Create flowchart of containers and components", "Work from the containers down to the specific features"],
+                                "es": ["Seleccionar que herramientas usar", "¿Qué funciones serán parte de la app?", "Crear un gráfico de la relación entre los contenedores y componentes", "Desarrollo de los contenedores y finalizar desarrollando cada componente específico"]
+                        },
+                        {
+                            "type": "link",
+                            "url": "https://jossysola.github.io/flashcard_quizz/",
+                            "value": {
+                                "en": "Visit project",
+                                "es": "Visitar proyecto"
                             }
-                        ],
-                        "content": [
-                            {
-                                "type": "icons",
-                                "icons": ["react.svg", "redux.svg", "vite.svg"]
-                            },
-                            {
-                                "type": "h4",
-                                "en": "My Personal Challenge:",
-                                "es": "Mi Reto Personal:"
-                            },
-                            {
-                                "type": "text",
-                                "en": "Even though I have been taught the Development Process of a project, when starting this project from scratch I doubted where to begin.",
-                                "es": "Aunque he estudiado el Proceso de Desarrollo de proyectos, al empezar este proyecto desde cero dudé por dónde empezar."
-                            },
-                            {
-                                "type": "h4",
-                                "en": "How did I approach the challenge:",
-                                "es": "Cómo abordé el reto:"
-                            },
-                            {
-                                "type": "text",
-                                "en": "In general I started from the big picture down to the specific parts or components of what the app would be made of.",
-                                "es": "En general empecé por visualizar el proyecto desde una gran escala hasta las partes y componentes específicos que harían funcionar la aplicación."
-                            },
-                            {
-                                "type": "orderedList",
-                                 "en": ["Select which technologies to use", "What features is the app made of?", "Create flowchart of containers and components", "Work from the containers down to the specific features"],
-                                 "es": ["Seleccionar que herramientas usar", "¿Qué funciones serán parte de la app?", "Crear un gráfico de la relación entre los contenedores y componentes", "Desarrollo de los contenedores y finalizar desarrollando cada componente específico"]
-                            },
-                            {
-                                "type": "link",
-                                "url": "https://jossysola.github.io/flashcard_quizz/",
-                                "value": {
-                                    "en": "Visit project",
-                                    "es": "Visitar proyecto"
-                                }
-                            }
+                        }
 
-                        ]
-                    }
-                ]
-            }
+                    ]
+                }
+            ]
+            
         }
     ]
 }
