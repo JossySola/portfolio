@@ -87,6 +87,14 @@
                     ],
                     "content": [
                         {
+                            "type": "link",
+                            "url": "https://jossysola.github.io/flashcard_quizz/",
+                            "value": {
+                                "en": "Visit project",
+                                "es": "Visitar proyecto"
+                            }
+                        },
+                        {
                             "type": "h4",
                             "en": "My Personal Challenge:",
                             "es": "Mi Reto Personal:"
@@ -110,20 +118,15 @@
                             "type": "orderedList",
                                 "en": ["Select which technologies to use", "What features is the app made of?", "Create flowchart of containers and components", "Work from the containers down to the specific features"],
                                 "es": ["Seleccionar que herramientas usar", "¿Qué funciones serán parte de la app?", "Crear un gráfico de la relación entre los contenedores y componentes", "Desarrollo de los contenedores y finalizar desarrollando cada componente específico"]
-                        },
-                        {
-                            "type": "link",
-                            "url": "https://jossysola.github.io/flashcard_quizz/",
-                            "value": {
-                                "en": "Visit project",
-                                "es": "Visitar proyecto"
-                            }
                         }
 
                     ]
                 }
             ]
             
+
+
+
         }
     ]
 }
