@@ -79,13 +79,13 @@
                             "type": "h3",
                             "en": "Flash Card Quizz",
                             "es": "Flash Card Quizz"
-                        }
-                    ],
-                    "content": [
+                        },
                         {
                             "type": "icons",
                             "icons": ["react.svg", "redux.svg", "vite.svg"]
-                        },
+                        }
+                    ],
+                    "content": [
                         {
                             "type": "h4",
                             "en": "My Personal Challenge:",
