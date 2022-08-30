@@ -72,8 +72,8 @@
                     "header": [
                         {
                             "type": "image",
-                            "url": "",
-                            "name": ""
+                            "url": "https://jossysola.github.io/portfolio/img/images/quizz.png",
+                            "name": "flashcardQuizz"
                         },
                         {
                             "type": "h3",
