@@ -69,6 +69,7 @@
                 {
                     "type": "dynamicList",
                     "file": "presentation",
+                    "color": "dark",
                     "header": [
                         {
                             "type": "image",
@@ -117,7 +118,7 @@
                         {
                             "type": "orderedList",
                                 "en": ["Select which technologies to use", "What features is the app made of?", "Create flowchart of containers and components", "Work from the containers down to the specific features"],
-                                "es": ["Seleccionar que herramientas usar", "¿Qué funciones serán parte de la app?", "Crear un gráfico de la relación entre los contenedores y componentes", "Desarrollo de los contenedores y finalizar desarrollando cada componente específico"]
+                                "es": ["Seleccionar qué herramientas usar", "¿Qué funciones serán parte de la app?", "Crear un gráfico de la relación entre los contenedores y componentes", "Desarrollo de los contenedores y finalizar desarrollando cada componente específico"]
                         }
 
                     ]
